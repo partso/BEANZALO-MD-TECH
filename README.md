@@ -52,7 +52,7 @@
 
 
 
----
+
 
 
 
@@ -88,13 +88,13 @@ star✨ my repo if you like this bot🤖
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- <a href="https://anthony-boniphace.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://partso-beanzalo.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### SESSION SITE
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- <a href="https://anthony-boniphace.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://partso-beanzalo.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
@@ -163,3 +163,4 @@ The WhatsApp Bot BEANZALO-MD is released under the [MIT License](https://opensou
 
      
 
+ROYAL BOT 263 
